@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Srikar</h1>
+<h3 align="center">I'm currently on the path to earning my Master of Science degree at the University of Maryland, College Park, fueled by my deep passion for data and analytics.</h3>
 
-<!--
-**srikar-alluri/srikar-alluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Currently working **on my final semester capstone project**
 
-Here are some ideas to get you started:
+- Do check out some cool visualizations on my [Tableau Public](app/profile/srikar.alluri)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach reach me at **srikaralluri7@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/srikar-alluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/srikar-alluri" height="30" width="40" /></a>
+</p>
+
