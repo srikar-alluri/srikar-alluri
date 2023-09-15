@@ -5,7 +5,7 @@
 
 - Do check out some cool visualizations on my [Tableau Public](app/profile/srikar.alluri)
 
-- 📫 Reach reach me at **srikaralluri7@gmail.com**
+- 📫 Reach me at **srikaralluri7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
