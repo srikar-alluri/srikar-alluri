@@ -3,7 +3,7 @@
 
 - 👨‍💻 Currently working **on my final semester capstone project**
 
-- Do check out some cool visualizations on my https://public.tableau.com/app/profile/srikar.alluri/vizzes
+- Do check out some cool visualizations on my Tableau Public - https://public.tableau.com/app/profile/srikar.alluri/vizzes
 
 - 📫 Reach me at **srikaralluri7@gmail.com**
 
